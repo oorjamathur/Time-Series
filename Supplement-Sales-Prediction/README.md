@@ -1,9 +1,4 @@
 ## Supplement Sales Prediction
-- Overview
-- Motivation
-- Technical Aspect
-
-
 ## Overview
 To predict/ forecast the sales of 2 months given sales of 1.5 years of a WOMart retail outlets.
 
